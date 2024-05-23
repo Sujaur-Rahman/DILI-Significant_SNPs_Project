@@ -62,7 +62,9 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 - **SNPs with AF in gnomAD NFE**: 287,517
 - **Significant SNPs (p < \(5 \times 10^{-8}\))**: 44,856
 
-![Mechanism of DILI](Figures/DILI_Pathogenesis.png)
+![Volcano Plot](Figures/final_volcano_plot.png)
+Figure 2: Volcano Plot of SNP Association with DILI in European Samples
+This volcano plot visualizes the association between single nucleotide polymorphisms (SNPs) and drug-induced liver injury (DILI) in 51 European samples. The x-axis represents the log2 fold change in allele frequencies between DILI-positive and DILI-negative groups, while the y-axis displays the -log10(p-value), indicating the statistical significance of each SNP. Red dots denote individual SNPs, with those above the blue and green dashed lines (corresponding to p-value thresholds of 5e-8 and 1e-5, respectively) considered statistically significant. Notably, multiple SNPs in the HLA-C region exhibit high significance, suggesting a strong association with DILI. Other significant SNPs include those in the MYO5B and CCDC188 regions, highlighting potential genetic factors involved in DILI susceptibility.
 
 ## Additional Information
 
