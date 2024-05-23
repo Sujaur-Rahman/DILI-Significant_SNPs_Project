@@ -62,6 +62,8 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 - **SNPs with AF in gnomAD NFE**: 287,517
 - **Significant SNPs (p < \(5 \times 10^{-8}\))**: 44,856
 
+![Mechanism of DILI](Figures/DILI_Pathogenesis.png)
+
 ## Additional Information
 
 - **Race Verification**: Initial verification with Peddy, ongoing verification with PLINK and 1000 Genomes Project.
