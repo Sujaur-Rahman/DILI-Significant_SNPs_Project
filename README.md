@@ -1,4 +1,4 @@
-Figures/Three-step-mechanism-of-drug-induced-liver-injury.png
+![Alt text](Figures/Three-step-mechanism-of-drug-induced-liver-injury.png)
 # DILI Samples Analysis Project
 
 ## Overview
