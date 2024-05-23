@@ -1,6 +1,6 @@
 # DILI Samples Analysis Project
 ![Mechanism of DILI](Figures/DILI_Pathogenesis.png) 
-Three Step Mechanism of DILI (Source: https://link.springer.com/article/10.1007/s00204-020-02885-1?fromPaywallRec=true)
+Mechanism of DILI (Source: https://link.springer.com/article/10.1007/s00204-020-02885-1?fromPaywallRec=true)
 ## Overview
 
 This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samples, with a subset of 51 samples being of European descent. The race verification was performed using Peddy and is ongoing with PLINK and the 1000 Genomes Project database. The project is divided into three main steps: data filtering and preparation, annotation, and statistical analysis to identify significant SNPs.
