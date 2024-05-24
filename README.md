@@ -50,7 +50,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
    - Final dataset: 287,517 SNPs.
 
 2. **Construct Contingency Table**
-   - Derived the number of positive and negative alleles for gnomAD population.
+   - Derived the number of positive and negative alleles for DILI patient population and gnomAD population.
    - Performed Fisher's exact test to calculate p-values and odds ratios.
    - Applied a p-value threshold of \(5 \times 10^{-8}\) for significance.
    - Calculated False Discovery Rate (FDR).
