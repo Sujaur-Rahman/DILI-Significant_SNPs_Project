@@ -1,5 +1,6 @@
 # DILI Samples Analysis Project
 Drug-Induced Liver Injury (DILI) is a significant cause of liver disease and a major concern in clinical practice and drug development. It encompasses a broad spectrum of liver damage caused by pharmaceutical compounds, ranging from mild biochemical abnormalities to acute liver failure. The pathogenesis of DILI is complex and multifactorial, involving direct hepatotoxicity, immune-mediated reactions, and idiosyncratic responses that are often unpredictable. Key factors contributing to DILI include genetic predisposition, underlying liver disease, and interactions with other medications. Genetic factors, such as variations in drug-metabolizing enzymes and immune response genes, play a crucial role in an individual's susceptibility to DILI. Understanding the genetic basis of DILI can provide insights into the mechanisms of liver injury, identify individuals at risk, and guide the development of safer therapeutic agents. Research in this field aims to elucidate the genetic variants associated with DILI, improve early detection, and foster the development of personalized medicine approaches to mitigate the risk of liver injury from medications.
+
 ![Mechanism of DILI](Figures/DILI_Pathogenesis.png) 
 Pathogenesis of DILI (Source: https://link.springer.com/article/10.1007/s00204-020-02885-1?fromPaywallRec=true)
 ## Overview
