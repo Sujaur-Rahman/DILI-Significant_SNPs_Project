@@ -17,7 +17,7 @@ awk -F'\t' '
     !/^#/ { # Skip header lines
         ac1_count=0
         ac2_count=0
-        for (i=10; i<=NF; i++) { # Assuming genotype info starts at column 10
+        for (i=10; i<=NF; i++) {
             split($i, arr, ":")
             genotype=arr[1]
             if (genotype == "0/1") ac1_count++
