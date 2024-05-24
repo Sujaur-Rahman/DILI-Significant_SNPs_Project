@@ -37,7 +37,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
    - Converted annotated CSV file to TSV format.
    - Extracted AF column for NFE population and other necessary columns.
    
-   **Script Link**: [Annotate with ANNOVAR](scripts/annotate_annovar.sh)
+   **Script Link**: [Annotate with ANNOVAR](script/step_2)
 
 ## Statistical Analysis
 
