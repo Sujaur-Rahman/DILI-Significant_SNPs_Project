@@ -54,7 +54,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
    - Applied a p-value threshold of \(5 \times 10^{-8}\) for significance.
    - Calculated False Discovery Rate (FDR).
    
-   **Script Link**: [Fisher's Exact Test](scripts/fisher_test.sh)
+   **Script Link**: [Fisher's Exact Test](script/step_3)
 
 ## Results
 
