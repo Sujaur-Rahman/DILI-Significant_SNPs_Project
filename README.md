@@ -71,6 +71,7 @@ This volcano plot visualizes the association between single nucleotide polymorph
 ## Additional Information
 
 - **Race Verification**: Initial verification with Peddy, ongoing verification with PLINK and 1000 Genomes Project.
+  ![Ethnicity Verification](Figures/wt_merged_cohort_pruned.pca_check.png)
 - **Annotation Database**: gnomAD v3.1.2 for comprehensive allele frequency data.
 - **Statistical Analysis**: Focused on identifying significant SNPs related to DILI using Fisher's exact test.
 
