@@ -22,6 +22,3 @@ awk '
     }
 ' FS="\t" 2.final_cleaned_avsnp_nfe.tsv FS="\t" 2.filtered_1.final_with_pos_neg.vcf > merged_output.tsv
 
-# This script assumes that fields in both gnomad2.tsv and patient.vcf are separated by tabs.
-# The output file, merged_output.tsv, will contain the combined lines from both files,
-# for records with matching IDs, also separated by tabs.
