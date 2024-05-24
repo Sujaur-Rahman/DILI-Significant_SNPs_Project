@@ -22,7 +22,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
    - Removed metadata from the final merged VCF to streamline data analysis.
    - Calculated the number of patients with specific SNPs and their allele counts.
    
-   **Script Link**: [Filter and Merge VCFs](scripts/filter_merge_vcfs.sh)
+   **Script Link**: [Filter and Merge VCFs](script/step_1)
 
 ## Annotation
 
