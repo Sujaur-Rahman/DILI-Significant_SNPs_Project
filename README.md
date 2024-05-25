@@ -75,8 +75,7 @@ The bar chart illustrates the distribution of significant single nucleotide poly
 
 
 ![Pie Chart](Figures/significant_snps_pie_chart_v4.png)
-### Figure 4: Pie Chart of the number of significant SNPs by their reference gene function
-The pie chart illustrates the distribution of significant SNPs by their genomic function, highlighting that intronic SNPs are the most prevalent, constituting 67.9% (33,372 SNPs) of the total. Exonic SNPs follow with 10.4% (5,122 SNPs), while intergenic SNPs account for 6.6% (3,233 SNPs). UTR3 and ncRNA_intronic SNPs represent 4.7% (2,298 SNPs) and 3.8% (1,848 SNPs), respectively.
+**Figure 4:** The pie chart illustrates the distribution of significant SNPs by their genomic function, highlighting that intronic SNPs are the most prevalent, constituting 67.9% (33,372 SNPs) of the total. Exonic SNPs follow with 10.4% (5,122 SNPs), while intergenic SNPs account for 6.6% (3,233 SNPs). UTR3 and ncRNA_intronic SNPs represent 4.7% (2,298 SNPs) and 3.8% (1,848 SNPs), respectively.
 
 
 ![Volcano Plot](Figures/final_volcano_plot.png)
