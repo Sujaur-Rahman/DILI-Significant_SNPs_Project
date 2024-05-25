@@ -64,6 +64,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 - **Significant SNPs (p < \(5 \times 10^{-8}\))**: 44,856
 
 ![Bar Plot](Figures/num_snp_chr.png)
+
 Figure 3: The bar chart illustrates the distribution of significant single nucleotide polymorphisms (SNPs) across different chromosomes. The data indicates that Chromosome 1 harbors the highest number of significant SNPs, exceeding 4500, followed by Chromosome 2 with approximately 4000 significant SNPs. Notable counts are also observed in Chromosomes 6, 7, 10, and 19, each ranging between 2500 and 3000 significant SNPs. In contrast, Chromosomes 3, 5, 9, 13, 15, 17, and 21 exhibit fewer significant SNPs, generally between 1000 and 2000. The sex chromosomes, particularly Chromosome Y, contain the least number of significant SNPs. This distribution highlights potential genomic regions of interest that warrant further investigation in the context of the study.
 ![Pie Chart](Figures/significant_snps_pie_chart_v4.png)
 Figure 4: The pie chart illustrates the distribution of significant SNPs by their genomic function, highlighting that intronic SNPs are the most prevalent, constituting 67.9% (33,372 SNPs) of the total. Exonic SNPs follow with 10.4% (5,122 SNPs), while intergenic SNPs account for 6.6% (3,233 SNPs). UTR3 and ncRNA_intronic SNPs represent 4.7% (2,298 SNPs) and 3.8% (1,848 SNPs), respectively.
