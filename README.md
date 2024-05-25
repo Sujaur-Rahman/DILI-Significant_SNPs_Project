@@ -88,27 +88,14 @@ This volcano plot visualizes the association between single nucleotide polymorph
 ### Figure 5: Heatmap of the top 50 gene with highest involvement
 The heatmap shows the top 50 gene with highest involvement, represented by rows. Each row is labeled with the respective SNP count, ranging from 26 to 152. The color scale on the right side of the heatmap indicates the SNP count intensity, with yellow representing the highest counts and purple representing the lowest. Notable peaks in SNP counts are observed with values such as 137, 135, 87, 71, and 152, indicating a higher concentration of significant SNPs in these samples.
 
-
-## Additional Information
-
-- **Race Verification**: Initial verification with Peddy, ongoing verification with PLINK and 1000 Genomes Project.
-  ![Ethnicity Verification](Figures/wt_merged_cohort_pruned.pca_check.png)
-- **Annotation Database**: gnomAD v3.1.2 for comprehensive allele frequency data.
-- **Statistical Analysis**: Focused on identifying significant SNPs related to DILI using Fisher's exact test.
-
 ## Future Work
 
 - Further validation of significant SNPs in larger datasets.
 - Integration with functional genomics data to understand the biological implications of identified SNPs.
 - Development of visualization tools to better interpret and present findings.
 
-**Figure Suggestions**:
-1. A flowchart of the data filtering and preparation process.
-2. A summary table of the SNP filtering and annotation results.
-3. A Manhattan plot of the significant SNPs identified in the study.
-
 **Contact Information**:
-For further details or collaboration, please contact [Your Name] at [Your Email].
+For further details or collaboration, please contact [Mohammad Sujaur Rahman] at [mrahman7@ualr.edu].
 
 ---
 
