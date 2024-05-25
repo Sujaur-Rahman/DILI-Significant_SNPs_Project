@@ -19,6 +19,9 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 1. **Filter Samples Based on GQ and DP**
    - Criteria: DP ≥ 20 and GQ ≥ 30.
    - Removed multi-alleles and indels to ensure unique alleles for statistical analysis.
+
+![Depth of Coverage](Figures/dp.png)
+**Figure 2:** Depth of Coverage
    
 2. **Merge Filtered VCF Files**
    - Used `bcftools` to merge VCF files.
