@@ -7,6 +7,11 @@ Pathogenesis of DILI (Source: https://link.springer.com/article/10.1007/s00204-0
 
 This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samples, with a subset of 51 samples being of European descent. The race verification was performed using Peddy and is ongoing with PLINK and the 1000 Genomes Project database. The project is divided into three main steps: data filtering and preparation, annotation, and statistical analysis to identify significant SNPs.
 
+- **Race Verification**: Initial verification with Peddy, ongoing verification with PLINK and 1000 Genomes Project.
+  ![Ethnicity Verification](Figures/wt_merged_cohort_pruned.pca_check.png)
+- **Annotation Database**: gnomAD v3.1.2 for comprehensive allele frequency data.
+- **Statistical Analysis**: Focused on identifying significant SNPs related to DILI using Fisher's exact test.
+
 ## Data Filtering and Preparation
 
 ### Step 1: Filtering VCF Files
