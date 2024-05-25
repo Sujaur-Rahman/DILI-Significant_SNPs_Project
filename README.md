@@ -21,7 +21,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
    - Removed multi-alleles and indels to ensure unique alleles for statistical analysis.
 
 ![Depth of Coverage](Figures/dp.png)
-**Figure 2:** This box plot illustrates the distribution of DP values across chromosomes. Each box represents the interquartile range (IQR) of DP values, with the median indicated by the line inside the box. Whiskers extend to 1.5 times the IQR, and dots represent outliers. The plot highlights the variability in sequencing depth across different chromosomes, with distinct colors for each chromosome for easy comparison. This visualization helps in assessing the sequencing coverage quality and identifying chromosomes with higher variability or significant outliers.
+**Figure 2:** This box plot illustrates the distribution of DP values across chromosomes. Each box represents the interquartile range (IQR) of DP values, with the median indicated by the line inside the box. The plot highlights the variability in sequencing depth across different chromosomes, with distinct colors for each chromosome for easy comparison. This visualization helps in assessing the sequencing coverage quality and identifying chromosomes with higher variability or significant outliers.
    
 2. **Merge Filtered VCF Files**
    - Used `bcftools` to merge VCF files.
