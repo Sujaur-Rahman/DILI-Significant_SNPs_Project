@@ -81,7 +81,7 @@ This volcano plot visualizes the association between single nucleotide polymorph
 
 ![HeatMap](Figures/heatmap_top_50_genes.png)
 ### Figure 5: Heatmap of the top 50 gene with highest involvement
-
+The heatmap shows the top 50 gene with highest involvement, represented by rows. Each row is labeled with the respective SNP count, ranging from 26 to 152. The color scale on the right side of the heatmap indicates the SNP count intensity, with yellow representing the highest counts and purple representing the lowest. Notable peaks in SNP counts are observed with values such as 137, 135, 87, 71, and 152, indicating a higher concentration of significant SNPs in these samples.
 
 
 ## Additional Information
