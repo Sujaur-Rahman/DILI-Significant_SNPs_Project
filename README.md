@@ -70,6 +70,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 
 
 ![Bar Plot](Figures/num_snp_chr.png)
+
 **Figure 3:** The bar chart illustrates the distribution of significant single nucleotide polymorphisms (SNPs) across different chromosomes. The data indicates that Chromosome 1 harbors the highest number of significant SNPs, exceeding 4500, followed by Chromosome 2 with approximately 4000 significant SNPs. Notable counts are also observed in Chromosomes 6, 7, 10, and 19, each ranging between 2500 and 3000 significant SNPs. In contrast, Chromosomes 3, 5, 9, 13, 15, 17, and 21 exhibit fewer significant SNPs, generally between 1000 and 2000. The sex chromosomes, particularly Chromosome Y, contain the least number of significant SNPs. This distribution highlights potential genomic regions of interest that warrant further investigation in the context of the study.
 
 
@@ -91,7 +92,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 - Development of visualization tools to better interpret and present findings.
 
 **Contact Information**:
-For further details or collaboration, please contact Mohammad Sujaur Rahman at mrahman7@ualr.edu.
+For further details or collaboration, please contact **Mohammad Sujaur Rahman** at mrahman7@ualr.edu.
 
 ---
 
