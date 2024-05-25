@@ -95,7 +95,7 @@ The heatmap shows the top 50 gene with highest involvement, represented by rows.
 - Development of visualization tools to better interpret and present findings.
 
 **Contact Information**:
-For further details or collaboration, please contact [Mohammad Sujaur Rahman] at [mrahman7@ualr.edu].
+For further details or collaboration, please contact Mohammad Sujaur Rahman at mrahman7@ualr.edu.
 
 ---
 
