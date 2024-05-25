@@ -70,8 +70,7 @@ This project focuses on the analysis of 97 Drug-Induced Liver Injury (DILI) samp
 
 
 ![Bar Plot](Figures/num_snp_chr.png)
-### Figure 3: Bar plots of the number of significant SNPs per chromosome.
-The bar chart illustrates the distribution of significant single nucleotide polymorphisms (SNPs) across different chromosomes. The data indicates that Chromosome 1 harbors the highest number of significant SNPs, exceeding 4500, followed by Chromosome 2 with approximately 4000 significant SNPs. Notable counts are also observed in Chromosomes 6, 7, 10, and 19, each ranging between 2500 and 3000 significant SNPs. In contrast, Chromosomes 3, 5, 9, 13, 15, 17, and 21 exhibit fewer significant SNPs, generally between 1000 and 2000. The sex chromosomes, particularly Chromosome Y, contain the least number of significant SNPs. This distribution highlights potential genomic regions of interest that warrant further investigation in the context of the study.
+**Figure 3:** The bar chart illustrates the distribution of significant single nucleotide polymorphisms (SNPs) across different chromosomes. The data indicates that Chromosome 1 harbors the highest number of significant SNPs, exceeding 4500, followed by Chromosome 2 with approximately 4000 significant SNPs. Notable counts are also observed in Chromosomes 6, 7, 10, and 19, each ranging between 2500 and 3000 significant SNPs. In contrast, Chromosomes 3, 5, 9, 13, 15, 17, and 21 exhibit fewer significant SNPs, generally between 1000 and 2000. The sex chromosomes, particularly Chromosome Y, contain the least number of significant SNPs. This distribution highlights potential genomic regions of interest that warrant further investigation in the context of the study.
 
 
 ![Pie Chart](Figures/significant_snps_pie_chart_v4.png)
@@ -79,13 +78,11 @@ The bar chart illustrates the distribution of significant single nucleotide poly
 
 
 ![Volcano Plot](Figures/final_volcano_plot.png)
-### Figure 2: Volcano Plot of SNP Association with DILI in European Samples
-This volcano plot visualizes the association between single nucleotide polymorphisms (SNPs) and drug-induced liver injury (DILI) in 51 European samples. The x-axis represents the log2 fold change in allele frequencies between DILI-positive and DILI-negative groups, while the y-axis displays the -log10(p-value), indicating the statistical significance of each SNP. Red dots denote individual SNPs, with those above the blue and green dashed lines (corresponding to p-value thresholds of 5e-8 and 1e-5, respectively) considered statistically significant. Notably, multiple SNPs in the HLA-C region exhibit high significance, suggesting a strong association with DILI. Other significant SNPs include those in the MYO5B and CCDC188 regions, highlighting potential genetic factors involved in DILI susceptibility.
+**Figure 2:** This volcano plot visualizes the association between single nucleotide polymorphisms (SNPs) and drug-induced liver injury (DILI) in 51 European samples. The x-axis represents the log2 fold change in allele frequencies between DILI-positive and DILI-negative groups, while the y-axis displays the -log10(p-value), indicating the statistical significance of each SNP. Red dots denote individual SNPs, with those above the blue and green dashed lines (corresponding to p-value thresholds of 5e-8 and 1e-5, respectively) considered statistically significant. Notably, multiple SNPs in the HLA-C region exhibit high significance, suggesting a strong association with DILI. Other significant SNPs include those in the MYO5B and CCDC188 regions, highlighting potential genetic factors involved in DILI susceptibility.
 
 
 ![HeatMap](Figures/heatmap_top_50_genes.png)
-### Figure 5: Heatmap of the top 50 gene with highest involvement
-The heatmap shows the top 50 gene with highest involvement, represented by rows. Each row is labeled with the respective SNP count, ranging from 26 to 152. The color scale on the right side of the heatmap indicates the SNP count intensity, with yellow representing the highest counts and purple representing the lowest. Notable peaks in SNP counts are observed with values such as 137, 135, 87, 71, and 152, indicating a higher concentration of significant SNPs in these samples.
+**Figure 5:** The heatmap shows the top 50 gene with highest involvement, represented by rows. Each row is labeled with the respective SNP count, ranging from 26 to 152. The color scale on the right side of the heatmap indicates the SNP count intensity, with yellow representing the highest counts and purple representing the lowest. Notable peaks in SNP counts are observed with values such as 137, 135, 87, 71, and 152, indicating a higher concentration of significant SNPs in these samples.
 
 ## Future Work
 
